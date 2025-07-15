@@ -1,1 +1,1 @@
-# SCT_DS_04
+This project involves analyzing a real-world traffic accident dataset from Kaggle. The objective was to identify patterns and uncover insights related to road safety by visualizing various factors contributing to accidents. The notebook includes multiple visualizations covering different conditions and accident types.
